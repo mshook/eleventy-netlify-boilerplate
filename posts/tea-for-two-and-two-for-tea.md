@@ -5,6 +5,8 @@ author: Michael
 summary: A song
 tags:
   - post
+  - song
+  - tea
 ---
 Tea for two and two for tea.
 
